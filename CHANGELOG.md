@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.73.1](https://github.com/aquasecurity/trivy/compare/v0.73.0...v0.73.1) (2026-08-05)
+
+
+### Bug Fixes
+
+* **terraform:** avoid panic when for_each local has unknown object values ([#11019](https://github.com/aquasecurity/trivy/issues/11019)) ([199a126](https://github.com/aquasecurity/trivy/commit/199a12624b84d82aaa48a14f85b38c1a3ea3e9ca))
+
 ## [0.73.0](https://github.com/aquasecurity/trivy/compare/v0.72.0...v0.73.0) (2026-08-03)
 
 
